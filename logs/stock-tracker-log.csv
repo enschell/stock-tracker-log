@@ -2,9 +2,15 @@ date,ticker,price,avg_target,rating,score
 2026-07-02,TSLA,425.30,421.16,Hold (implied),4
 2026-07-02,MU,1032.28,1486.00,Buy (implied),9
 2026-07-02,AMD,540.88,508.31,Hold (implied),4
+2026-07-03,TSLA,393.45,421.16,Buy (implied),5
+2026-07-03,MU,975.56,1486.00,Buy (implied),9
+2026-07-03,AMD,517.82,508.31,Hold (implied),4
 2026-07-06,TSLA,393.45,423.40,Buy (implied),4
 2026-07-06,MU,975.56,1486.00,Buy (implied),9
 2026-07-06,AMD,517.82,508.31,Hold (implied),4
+2026-07-07,TSLA,419.77,423.40,Hold (implied),3
+2026-07-07,MU,984.75,1486.00,Buy (implied),9
+2026-07-07,AMD,552.05,508.31,Sell (implied),2
 2026-07-08,TSLA,402.90,424.01,Hold (implied),3
 2026-07-08,MU,938.38,1486.00,Buy (implied),9
 2026-07-08,AMD,516.11,512.27,Hold (implied),3
@@ -26,6 +32,9 @@ date,ticker,price,avg_target,rating,score
 2026-07-16,TSLA,394.46,425.24,Buy (implied),4
 2026-07-16,MU,904.28,1486.00,Buy (implied),10
 2026-07-16,AMD,529.14,525.40,Hold (implied),4
+2026-07-17,TSLA,391.06,425.61,Buy (implied),5
+2026-07-17,MU,853.20,NA,Data unavailable,NA
+2026-07-17,AMD,500.94,537.00,Buy (implied),6
 2026-07-20,TSLA,380.84,425.22,Buy (implied),4
 2026-07-20,MU,848.95,1491.95,Buy (implied),10
 2026-07-20,AMD,495.76,540.19,Buy (implied),4
