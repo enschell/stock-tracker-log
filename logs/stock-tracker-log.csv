@@ -2,3 +2,6 @@ date,ticker,price,avg_target,rating,score
 2026-07-02,TSLA,425.30,421.16,Hold (implied),4
 2026-07-02,MU,1032.28,1486.00,Buy (implied),9
 2026-07-02,AMD,540.88,508.31,Hold (implied),4
+2026-08-18,TSLA,339.30,395.34,Buy (implied),4
+2026-08-18,MU,1011.75,1501.98,Buy (implied),10
+2026-08-18,AMD,506.00,612.84,Buy (implied),5
