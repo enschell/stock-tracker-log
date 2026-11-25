@@ -2,3 +2,6 @@ date,ticker,price,avg_target,rating,score
 2026-07-02,TSLA,425.30,421.16,Hold (implied),4
 2026-07-02,MU,1032.28,1486.00,Buy (implied),9
 2026-07-02,AMD,540.88,508.31,Hold (implied),4
+2026-11-25,TSLA,384.68,,Unavailable (OVERVIEW endpoint premium-gated on this key),
+2026-11-25,MU,629.79,,Unavailable (OVERVIEW endpoint premium-gated on this key),
+2026-11-25,AMD,413.27,,Unavailable (OVERVIEW endpoint premium-gated on this key),
